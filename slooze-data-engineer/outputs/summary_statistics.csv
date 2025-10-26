@@ -1,0 +1,12 @@
+,category,name,price,company,location,link,price_numeric
+count,64,64,64,64,64,64,64.0
+unique,3,35,33,33,18,35,
+top,industrial machinery,100 Ton Hydraulic Press Machine HP-100,"$2,780","Zhejiang Zhenhua Machinery Co., Ltd.","Shenzhen, China",https://baixingmachinery.en.alibaba.com/product/1600937463172/100_Ton_Hydraulic_Press_Machine_HP_100.html,
+freq,22,2,4,4,19,2,
+mean,,,,,,,173.75
+std,,,,,,,678.2505506992305
+min,,,,,,,0.0
+25%,,,,,,,0.0
+50%,,,,,,,0.0
+75%,,,,,,,0.0
+max,,,,,,,2780.0
